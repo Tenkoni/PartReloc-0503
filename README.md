@@ -1,4 +1,4 @@
-# PartReloc-0503
+# PartReloc-0503 / Scheduler and Memory simulator 
 Scheduler and Memory simulator
 This is a project I made for my Computer Architecture class, it is a process scheduler and memory simulator.
 It uses dynamical and relocatable memory with the first-fit algorithm to fit the process in the simulated memory.
